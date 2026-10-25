@@ -192,7 +192,7 @@ export default function App() {
       borderColor: 'border-indigo-500/50',
       glowColor: 'shadow-indigo-500/30',
       iconColor: '#5865F2',
-      link: 'https://discord.gg/zenova',
+      link: 'https://discord.gg/PgyN5R7cwW',
       badge: 'Main Core',
       features: ['24/7 Voice Rooms', 'Custom Bot Games', 'Stage Talk Shows']
     },
@@ -206,7 +206,7 @@ export default function App() {
       borderColor: 'border-emerald-500/50',
       glowColor: 'shadow-emerald-500/30',
       iconColor: '#25D366',
-      link: 'https://chat.whatsapp.com/zenova-official',
+      link: 'https://chat.whatsapp.com/EfS2OX1h8B56gTTqKe7oTs',
       badge: 'Instant Alert',
       features: ['Direct Mobile Updates', 'Sub-Interest Chats', 'Instant Polls']
     },
@@ -220,7 +220,7 @@ export default function App() {
       borderColor: 'border-pink-500/50',
       glowColor: 'shadow-pink-500/30',
       iconColor: '#E1306C',
-      link: 'https://instagram.com/zenova_community',
+      link: 'https://www.instagram.com/0zenova0/',
       badge: 'Visual Hub',
       features: ['Daily Highlights', 'Behind-the-Scenes', 'Member Spotlights']
     },
@@ -234,7 +234,7 @@ export default function App() {
       borderColor: 'border-cyan-500/50',
       glowColor: 'shadow-cyan-500/30',
       iconColor: '#00f0ff',
-      link: 'https://tiktok.com/@zenova_official',
+      link: 'https://www.tiktok.com/@0zenova0?_r=1&_t=ZS-9AnWQf9GyqQ',
       badge: 'Trending Content',
       features: ['Esports Clips', 'Manhwa Reviews', 'Speed Arts']
     },
@@ -248,7 +248,7 @@ export default function App() {
       borderColor: 'border-blue-500/50',
       glowColor: 'shadow-blue-500/30',
       iconColor: '#1877F2',
-      link: 'https://facebook.com/groups/zenova.official',
+      link: 'https://www.facebook.com/share/g/19yaTZG1Du/',
       badge: 'Forum Lounge',
       features: ['Guides & Articles', 'Community Events', 'Big Discussions']
     }
@@ -384,40 +384,70 @@ export default function App() {
       id: 1,
       title: 'ZENOVA Valorant 5v5 Cyber Cup',
       category: 'Gaming',
-      date: 'Sat, Oct 31 • 18:00 UTC',
+      date: 'COMING SOON',
       platform: 'Discord Voice & Twitch',
-      prize: '$500 Prize Pool + Custom Role',
-      attendees: 142,
+      prize: 'UPCOMING',
+      attendees: ...,
       tag: 'Tournament'
     },
     {
       id: 2,
-      title: 'Anime Stream Night: Chainsaw Man / JJK Watchalong',
+      title: 'Anime Stream Night',
       category: 'Anime',
-      date: 'Sun, Nov 1 • 20:00 UTC',
+      date: 'COMING SOON',
       platform: 'Discord Stage Room',
-      prize: 'Exclusive Poster Giveaway',
-      attendees: 210,
+      prize: 'UPCOMING',
+      attendees: ...,
       tag: 'Watch Party'
     },
     {
       id: 3,
-      title: 'Neon Cyberpunk Art Contest Submission Deadline',
+      title: 'Neon Cyberpunk Art Contest',
       category: 'Creativity',
-      date: 'Nov 5 • 23:59 UTC',
+      date: 'COMING SOON',
       platform: 'Instagram & Discord #art-showcase',
-      prize: 'Wacom Tablet + Zenova Elite Badge',
-      attendees: 88,
+      prize: 'UPCOMING',
+      attendees: ...,
       tag: 'Contest'
     },
     {
       id: 4,
       title: 'Music Producer Beat Battle & Vocal Jam',
       category: 'Music',
-      date: 'Fri, Nov 10 • 19:30 UTC',
+      date: 'COMING SOON',
       platform: 'WhatsApp Live & Discord VC',
-      prize: 'VST Plugin License + Collab',
-      attendees: 64,
+      prize: 'UPCOMING',
+      attendees: ...,
+      tag: 'Live Session'
+    },
+    {
+      id: 5,
+      title: 'League Of Legends',
+      category: 'Gaming',
+      date: 'COMING SOON',
+      platform: 'Twitch & Discord VC',
+      prize: 'UPCOMING',
+      attendees: ...,
+      tag: 'Live Session'
+    },
+    {
+      id: 6,
+      title: 'Marvel Viral',
+      category: 'Gaming',
+      date: 'COMING SOON',
+      platform: 'Twitch & Discord VC',
+      prize: 'UPCOMING',
+      attendees: ...,
+      tag: 'Live Session'
+    },
+    {
+      id: 7,
+      title: 'Overwatch',
+      category: 'Gaming',
+      date: 'COMING SOON',
+      platform: 'Twitch & Discord VC',
+      prize: 'UPCOMING',
+      attendees: ...,
       tag: 'Live Session'
     }
   ];
@@ -426,49 +456,54 @@ export default function App() {
   const showcases = [
     {
       id: 1,
-      author: 'Astra_FX',
-      avatar: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=100&auto=format&fit=crop&q=80',
-      badge: 'Sphere Master',
-      title: 'ZENOVA Neon City 3D Render',
+      author: 'Cherine',
+      avatar: 'https://www.image2url.com/r2/default/images/1792938055292-42099eef-1b66-49c9-a277-dbba14b9617b.jpeg',
+      badge: 'Creativity Master',
+      title: 'Making of Bookmark',
       category: 'Creativity',
-      likes: 342,
-      comments: 28,
-      image: 'https://images.unsplash.com/photo-1578632767115-351597cf2477?w=800&auto=format&fit=crop&q=80',
-      time: '2 hours ago'
+      likes: 0,
+      comments: 0,
+      image: 'https://www.image2url.com/r2/default/images/1792937753804-02ba3104-51da-4d2c-830b-f924f3d59c00.jpeg',
+      time: 'UPCOMING'
     },
     {
       id: 2,
-      author: 'Kaelen_Beats',
-      avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&auto=format&fit=crop&q=80',
+      author: 'Zenor',
+      avatar: 'https://www.image2url.com/r2/default/images/1792937198393-0ac46d0e-ccdc-46b6-a930-ecebf64fa1fc.webp',
       badge: 'Music Lead',
-      title: 'Cyberpunk Synthwave Beat Flip [Demo]',
+      title: 'The Art of Music',
       category: 'Music',
-      likes: 215,
-      comments: 19,
-      image: 'https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=800&auto=format&fit=crop&q=80',
-      time: '5 hours ago'
+      likes: 0,
+      comments: 0,
+      image: 'https://www.image2url.com/r2/default/images/1792936920830-63592b58-bef2-47fa-a8a2-5ec858683855.jpg',
+      time: 'UPCOMING'
     },
     {
       id: 3,
-      author: 'Rogue_Sniper',
-      avatar: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&auto=format&fit=crop&q=80',
+      author: 'Vash',
+      avatar: 'https://www.image2url.com/r2/default/images/1792936284915-4defe23f-3562-4a84-9b6d-4172f6486603.jpg',
       badge: 'Gaming Elite',
-      title: '1v5 Clutch in Esports Semi-Finals',
+      title: 'Dying Light',
       category: 'Gaming',
-      likes: 512,
-      comments: 64,
-      image: 'https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800&auto=format&fit=crop&q=80',
-      time: '1 day ago'
+      likes: 0,
+      comments: 0,
+      image: 'https://www.image2url.com/r2/default/images/1792936615072-ad3b8052-a123-409c-90c3-c8a6d1956e16.jpg',
+      time: 'UPCOMING'
     }
   ];
 
-  // Leaderboard Top Members
-  const topMembers = [
-    { rank: 1, name: 'Vortex_Zen', level: 'Level 72', role: 'Grandmaster', category: 'Gaming', xp: '124,500 XP', badge: '🥇' },
-    { rank: 2, name: 'CyberKitsune', level: 'Level 68', role: 'Art Director', category: 'Creativity', xp: '108,200 XP', badge: '🥈' },
-    { rank: 3, name: 'Lumina_Plow', level: 'Level 64', role: 'Beatmaker', category: 'Music', xp: '95,400 XP', badge: '🥉' },
-    { rank: 4, name: 'ShadowReader', level: 'Level 59', role: 'Manhwa Scholar', category: 'Manhwa', xp: '82,100 XP', badge: '⚡' },
-    { rank: 5, name: 'AeroShutter', level: 'Level 55', role: 'Lens Master', category: 'Photography', xp: '74,800 XP', badge: '📸' }
+  // Operation Team
+  const Operatiomteam = [
+    { name: 'Zenor', role: 'Owner/Founder', category: 'Music', badge: '👑' },
+    { name: 'Pink Rose', role: 'Administrator', category: 'Gaming', badge: '⚜️' },
+    { name: 'Vash', role: 'Moderator', category: 'Gaming', badge: '⚙️' },
+    { name: 'Zoro', role: 'Moderator', category: 'Anime', badge: '⚙️' },
+    { name: 'Zenin Toji', role: 'Moderator', category: 'Gaming', badge: '⚙️' },
+    { name: 'Mao', role: 'Helper', category: 'Gaming', badge: '🔗' },
+    { name: 'Cherine', role: 'Helper', category: 'Creativity', badge: '🔗' },
+    { name: 'Batman', role: 'Helper', category: 'Gaming', badge: '🔗' },
+    { name: 'Gamster', role: 'Helper', category: 'Gaming', badge: '🔗' },
+    { name: 'Hamster', role: 'Helper', category: 'Gaming', badge: '🔗' }
   ];
 
   // Copy Link Helper
@@ -534,7 +569,7 @@ export default function App() {
               { id: 'categories', label: '10 Interest Spheres', icon: Sliders },
               { id: 'events', label: 'Events & Battles', icon: Calendar },
               { id: 'showcase', label: 'Creative Showcase', icon: Flame },
-              { id: 'leaderboard', label: 'Leaderboard', icon: Award },
+              { id: 'operation', label: 'Operation Team', icon: Interlocking Gears Symbol },
             ].map((nav) => {
               const Icon = nav.icon;
               const isActive = activeTab === nav.id;
@@ -1092,13 +1127,13 @@ export default function App() {
           </div>
         )}
 
-        {/* TAB 6: LEADERBOARD & XP BADGES */}
-        {activeTab === 'leaderboard' && (
+        {/* TAB 6: OPERATION TEAM */}
+        {activeTab === 'operation team' && (
           <div className="space-y-6">
             <div className="space-y-2">
               <h2 className="text-3xl font-black text-white flex items-center gap-3">
                 <Award className="w-7 h-7 text-yellow-400" />
-                ZENOVA Member Leaderboard
+                ZENOVA Operation Team
               </h2>
               <p className="text-sm text-gray-400">Earn XP by participating in voice chats, sub-channel discussions, and monthly events.</p>
             </div>
@@ -1108,7 +1143,6 @@ export default function App() {
                 <table className="w-full text-left text-xs text-gray-300">
                   <thead className="bg-purple-950/60 font-mono text-gray-400 uppercase text-[10px] border-b border-purple-800/60">
                     <tr>
-                      <th className="p-4">Rank</th>
                       <th className="p-4">Member</th>
                       <th className="p-4">Primary Sphere</th>
                       <th className="p-4">Special Title</th>
@@ -1116,8 +1150,7 @@ export default function App() {
                     </tr>
                   </thead>
                   <tbody className="divide-y divide-purple-900/40 font-mono">
-                    {topMembers.map((m) => (
-                      <tr key={m.rank} className="hover:bg-purple-900/20 transition-colors">
+                    {topMembers.map((m) =>
                         <td className="p-4 text-base font-bold font-mono text-amber-400">{m.badge} #{m.rank}</td>
                         <td className="p-4 text-white font-bold">{m.name}</td>
                         <td className="p-4 text-cyan-400">{m.category}</td>
