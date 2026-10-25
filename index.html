@@ -39,24 +39,20 @@ import {
   CheckCircle2,
   HelpCircle
 } from 'lucide-react';
-
 // --- BACKGROUND NEON PARTICLE CANVAS ---
 const BackgroundCanvas = () => {
   const canvasRef = useRef(null);
-
   useEffect(() => {
     const canvas = canvasRef.current;
     if (!canvas) return;
     const ctx = canvas.getContext('2d');
     let animationFrameId;
-
     const resize = () => {
       canvas.width = canvas.parentElement.clientWidth;
       canvas.height = canvas.parentElement.clientHeight;
     };
     resize();
     window.addEventListener('resize', resize);
-
     // Cyan and Magenta particles based on logo colors
     const colors = ['#00f0ff', '#ff007f', '#8b5cf6', '#3b82f6'];
     const particles = Array.from({ length: 45 }, () => ({
@@ -69,17 +65,15 @@ const BackgroundCanvas = () => {
       alpha: Math.random() * 0.6 + 0.2,
       pulse: Math.random() * 0.02 + 0.005
     }));
-
     const draw = () => {
       ctx.clearRect(0, 0, canvas.width, canvas.height);
-
       // Draw faint connections
       for (let i = 0; i < particles.length; i++) {
         for (let j = i + 1; j < particles.length; j++) {
           const dx = particles[i].x - particles[j].x;
           const dy = particles[i].y - particles[j].y;
           const dist = Math.sqrt(dx * dx + dy * dy);
-
+                          
           if (dist < 130) {
             ctx.beginPath();
             ctx.strokeStyle = `rgba(139, 92, 246, ${0.12 * (1 - dist / 130)})`;
